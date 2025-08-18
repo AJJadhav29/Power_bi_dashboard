@@ -68,14 +68,6 @@ A global COVID-19 dashboard visualizing confirmed cases, recoveries, deaths, and
 
 ---
 
-## How to Use
-
-- Click on any **Live Demo** link to explore the interactive dashboards hosted via GitHub Pages.  
-- Use available filters on each dashboard to slice and dice the data dynamically.  
-- For source code and Tableau workbook files, browse the respective folders in this repository.
-
----
-
 ## Contact
 
 Created by **Aakash Jadhav**  
